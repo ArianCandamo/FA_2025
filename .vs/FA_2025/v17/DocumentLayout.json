@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SEMANA1_PYTHON.py",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA\\FA_2025\\SEMANA1_PYTHON\\SEMANA1_PYTHON.py",
-              "RelativeDocumentMoniker": "SEMANA1_PYTHON\\SEMANA1_PYTHON.py",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA\\FA_2025\\SEMANA1_PYTHON\\SEMANA1_PYTHON.py",
-              "RelativeToolTip": "SEMANA1_PYTHON\\SEMANA1_PYTHON.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-09-02T20:11:49.987Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -41,9 +28,24 @@
               "RelativeDocumentMoniker": "SEMANA1_C#\\Program.cs",
               "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA\\FA_2025\\SEMANA1_C#\\Program.cs",
               "RelativeToolTip": "SEMANA1_C#\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAgwD8AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwEUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T19:51:14.942Z",
+              "WhenOpened": "2025-09-09T20:30:43.43Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SEMANA1_PYTHON.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA\\FA_2025\\SEMANA1_PYTHON\\SEMANA1_PYTHON.py",
+              "RelativeDocumentMoniker": "SEMANA1_PYTHON\\SEMANA1_PYTHON.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA\\FA_2025\\SEMANA1_PYTHON\\SEMANA1_PYTHON.py",
+              "RelativeToolTip": "SEMANA1_PYTHON\\SEMANA1_PYTHON.py",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-02T20:11:49.987Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]

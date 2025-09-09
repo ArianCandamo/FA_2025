@@ -19,4 +19,23 @@ def ejer3():
     print("División: ", (x/y))
 
 
-ejer2()
+import math #IMPORTANDO LA LIBRERIA MATH
+
+def ejer4():
+    num = float(input("Ingrese un numero decimal: "))
+
+    print("Raiz 2: ", math.sqrt(num))
+    print("Redondeado: ", round(num,0))
+    print("Al cubo: ", math.pow(num,3))
+    print("Raiz 3: ", num**(1/3))
+
+
+def ejer5():
+    num = input("Ingrese un numero: ")
+
+    entero = int(num)
+    deci = float(num)
+    print("Resto: ", (entero%2))
+    print ("Division: ", (deci/3))
+
+ejer5()

@@ -7,7 +7,7 @@ namespace SEMANA1_C_
     {
         static void Main(string[] args)
         {
-            ejer4();
+            ejer5();
             Console.ReadKey();
         }
 
@@ -62,6 +62,18 @@ namespace SEMANA1_C_
             Console.WriteLine("Redondeado: " + redo);
             Console.WriteLine("Al cubo: " + cubo);
             Console.WriteLine("Raiz 3: " + raiz3);
+        }
+
+        static void ejer5()
+        {
+            Console.Write("Ingrese su numero: ");
+            string num = Console.ReadLine();
+
+            int entero = int.Parse(num);
+            double deci = double.Parse(num);
+
+            Console.WriteLine("Resto: " + (entero % 2));
+            Console.WriteLine("Division: " + (deci / 3));
         }
     }
 
