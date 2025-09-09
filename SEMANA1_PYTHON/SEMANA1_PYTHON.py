@@ -6,6 +6,10 @@ def ejer1():
 
 
 def ejer2():
+    print("\"Arian\"")
+    
+
+def ejer3():
     x = int(input("Ingrese el valor de x: "))
     y = int(input("Ingrese el valor de y: "))
     
@@ -13,5 +17,6 @@ def ejer2():
     print("Resta: ", (x-y))   
     print("Multiplicación: ", (x*y))
     print("División: ", (x/y))
+
 
 ejer2()
