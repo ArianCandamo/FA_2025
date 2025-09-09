@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text.RegularExpressions;
 
 namespace SEMANA1_C_
 {
@@ -6,7 +7,7 @@ namespace SEMANA1_C_
     {
         static void Main(string[] args)
         {
-            ejer2();
+            ejer4();
             Console.ReadKey();
         }
 
@@ -47,6 +48,21 @@ namespace SEMANA1_C_
             Console.WriteLine("División: " + resu);
         }
 
+        static void ejer4()
+        {
+            Console.Write("Ingrese un numero decimal: ");
+            double num = Convert.ToDouble(Console.ReadLine());
+
+            double raiz2 = Math.Sqrt(num);
+            int redo = (int)Math.Round(num,0);
+            double cubo = Math.Pow(num, 3);
+            double raiz3 = Math.Pow(num, 1/3d);
+
+            Console.WriteLine("Raiz 2: " + raiz2);
+            Console.WriteLine("Redondeado: " + redo);
+            Console.WriteLine("Al cubo: " + cubo);
+            Console.WriteLine("Raiz 3: " + raiz3);
+        }
     }
 
 
