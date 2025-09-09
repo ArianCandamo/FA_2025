@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UPN\\Downloads\\FA_2025\\",
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\FDA\\FA_2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73D6A2F3-2CC2-4E58-935B-1BE3D63D622E}|SEMANA1_C#\\SEMANA1_C#.csproj|C:\\Users\\UPN\\Downloads\\FA_2025\\semana1_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73D6A2F3-2CC2-4E58-935B-1BE3D63D622E}|SEMANA1_C#\\SEMANA1_C#.csproj|solutionrelative:semana1_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{917FBAD3-D9BA-465C-9545-E73B37E23E3E}|SEMANA1_PYTHON\\SEMANA1_PYTHON.pyproj|C:\\Users\\UPN\\Desktop\\FDA\\FA_2025\\SEMANA1_PYTHON\\SEMANA1_PYTHON.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{917FBAD3-D9BA-465C-9545-E73B37E23E3E}|SEMANA1_PYTHON\\SEMANA1_PYTHON.pyproj|solutionrelative:SEMANA1_PYTHON\\SEMANA1_PYTHON.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{917FBAD3-D9BA-465C-9545-E73B37E23E3E}|SEMANA1_PYTHON\\SEMANA1_PYTHON.pyproj|C:\\Users\\UPN\\Downloads\\FA_2025\\SEMANA1_PYTHON\\SEMANA1_PYTHON.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{917FBAD3-D9BA-465C-9545-E73B37E23E3E}|SEMANA1_PYTHON\\SEMANA1_PYTHON.pyproj|solutionrelative:SEMANA1_PYTHON\\SEMANA1_PYTHON.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{73D6A2F3-2CC2-4E58-935B-1BE3D63D622E}|SEMANA1_C#\\SEMANA1_C#.csproj|c:\\users\\upn\\desktop\\fda\\fa_2025\\semana1_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D6A2F3-2CC2-4E58-935B-1BE3D63D622E}|SEMANA1_C#\\SEMANA1_C#.csproj|solutionrelative:semana1_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SEMANA1_PYTHON.py",
-              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\FA_2025\\SEMANA1_PYTHON\\SEMANA1_PYTHON.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA\\FA_2025\\SEMANA1_PYTHON\\SEMANA1_PYTHON.py",
               "RelativeDocumentMoniker": "SEMANA1_PYTHON\\SEMANA1_PYTHON.py",
-              "ToolTip": "C:\\Users\\UPN\\Downloads\\FA_2025\\SEMANA1_PYTHON\\SEMANA1_PYTHON.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA\\FA_2025\\SEMANA1_PYTHON\\SEMANA1_PYTHON.py",
               "RelativeToolTip": "SEMANA1_PYTHON\\SEMANA1_PYTHON.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-09-02T20:11:49.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\FA_2025\\SEMANA1_C#\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA\\FA_2025\\SEMANA1_C#\\Program.cs",
               "RelativeDocumentMoniker": "SEMANA1_C#\\Program.cs",
-              "ToolTip": "C:\\Users\\UPN\\Downloads\\FA_2025\\SEMANA1_C#\\Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA\\FA_2025\\SEMANA1_C#\\Program.cs",
               "RelativeToolTip": "SEMANA1_C#\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA5wCIAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-02T19:51:14.942Z",
               "EditorCaption": ""
