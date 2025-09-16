@@ -13,5 +13,18 @@ def ejer1():
         print("No puede ejercer un cargo politico.")
 
 
+def ejer2():
+    lado1 = int(input("Ingrese lado1: "))
+    lado2 = int(input("Ingrese lado2: "))
+    lado3 = int(input("Ingrese lado3: "))
 
-ejer1()
+    if(lado1 == lado2 == lado3):
+        print("EQUILATERO")
+    elif lado1 == lado2 or lado1 == lado3 or lado2 == lado3:
+        print("ISOSCELES")
+    else:
+        print("ESCALENO")
+
+
+
+ejer2()
