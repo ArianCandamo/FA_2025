@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\SEMANA5\\FA_2025\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FFF8E72E-4870-4118-BBE4-7C8AC442A87F}|SEMANA5_PY\\SEMANA5_PY.pyproj|C:\\Users\\UPN\\Desktop\\SEMANA5\\FA_2025\\SEMANA5_PY\\SEMANA5_PY.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FFF8E72E-4870-4118-BBE4-7C8AC442A87F}|SEMANA5_PY\\SEMANA5_PY.pyproj|solutionrelative:SEMANA5_PY\\SEMANA5_PY.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{139CDE61-4E0B-4A6E-9553-A6F45C1126BC}|SEMANA4-PY\\SEMANA4-PY.pyproj|C:\\Users\\UPN\\Desktop\\SEMANA5\\FA_2025\\SEMANA4-PY\\SEMANA4_PY.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{139CDE61-4E0B-4A6E-9553-A6F45C1126BC}|SEMANA4-PY\\SEMANA4-PY.pyproj|solutionrelative:SEMANA4-PY\\SEMANA4_PY.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -22,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\SEMANA5\\FA_2025\\SEMANA1_C#\\Program.cs",
               "RelativeDocumentMoniker": "SEMANA1_C#\\Program.cs",
@@ -40,7 +44,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SEMANA1_PYTHON.py",
               "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\SEMANA5\\FA_2025\\SEMANA1_PYTHON\\SEMANA1_PYTHON.py",
               "RelativeDocumentMoniker": "SEMANA1_PYTHON\\SEMANA1_PYTHON.py",
@@ -54,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SEMANA4_PY.py",
               "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\SEMANA5\\FA_2025\\SEMANA4-PY\\SEMANA4_PY.py",
               "RelativeDocumentMoniker": "SEMANA4-PY\\SEMANA4_PY.py",
@@ -64,6 +68,19 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-09-09T20:42:34.512Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SEMANA5_PY.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\SEMANA5\\FA_2025\\SEMANA5_PY\\SEMANA5_PY.py",
+              "RelativeDocumentMoniker": "SEMANA5_PY\\SEMANA5_PY.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\SEMANA5\\FA_2025\\SEMANA5_PY\\SEMANA5_PY.py",
+              "RelativeToolTip": "SEMANA5_PY\\SEMANA5_PY.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-16T20:34:26.154Z",
               "EditorCaption": ""
             }
           ]
