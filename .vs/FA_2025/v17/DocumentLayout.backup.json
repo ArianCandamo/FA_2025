@@ -1,22 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\SEMANA5\\FA_2025\\",
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\FA_2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FFF8E72E-4870-4118-BBE4-7C8AC442A87F}|SEMANA5_PY\\SEMANA5_PY.pyproj|C:\\Users\\UPN\\Desktop\\SEMANA5\\FA_2025\\SEMANA5_PY\\SEMANA5_PY.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{CAE4DF4A-97E4-4DFC-B195-0529E18F1257}|SEMANA6_PY\\SEMANA6_PY.pyproj|C:\\Users\\UPN\\Desktop\\Nueva carpeta\\FA_2025\\SEMANA6_PY\\ejer3.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CAE4DF4A-97E4-4DFC-B195-0529E18F1257}|SEMANA6_PY\\SEMANA6_PY.pyproj|solutionrelative:SEMANA6_PY\\ejer3.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SEMANA6_PY||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF8E72E-4870-4118-BBE4-7C8AC442A87F}|SEMANA5_PY\\SEMANA5_PY.pyproj|C:\\Users\\UPN\\Desktop\\Nueva carpeta\\FA_2025\\SEMANA5_PY\\SEMANA5_PY.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{FFF8E72E-4870-4118-BBE4-7C8AC442A87F}|SEMANA5_PY\\SEMANA5_PY.pyproj|solutionrelative:SEMANA5_PY\\SEMANA5_PY.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{139CDE61-4E0B-4A6E-9553-A6F45C1126BC}|SEMANA4-PY\\SEMANA4-PY.pyproj|C:\\Users\\UPN\\Desktop\\SEMANA5\\FA_2025\\SEMANA4-PY\\SEMANA4_PY.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{139CDE61-4E0B-4A6E-9553-A6F45C1126BC}|SEMANA4-PY\\SEMANA4-PY.pyproj|solutionrelative:SEMANA4-PY\\SEMANA4_PY.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{CAE4DF4A-97E4-4DFC-B195-0529E18F1257}|SEMANA6_PY\\SEMANA6_PY.pyproj|C:\\Users\\UPN\\Desktop\\Nueva carpeta\\FA_2025\\SEMANA6_PY\\ejer2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CAE4DF4A-97E4-4DFC-B195-0529E18F1257}|SEMANA6_PY\\SEMANA6_PY.pyproj|solutionrelative:SEMANA6_PY\\ejer2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{917FBAD3-D9BA-465C-9545-E73B37E23E3E}|SEMANA1_PYTHON\\SEMANA1_PYTHON.pyproj|C:\\Users\\UPN\\Desktop\\SEMANA5\\FA_2025\\SEMANA1_PYTHON\\SEMANA1_PYTHON.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{CAE4DF4A-97E4-4DFC-B195-0529E18F1257}|SEMANA6_PY\\SEMANA6_PY.pyproj|C:\\Users\\UPN\\Desktop\\Nueva carpeta\\FA_2025\\SEMANA6_PY\\ejer1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CAE4DF4A-97E4-4DFC-B195-0529E18F1257}|SEMANA6_PY\\SEMANA6_PY.pyproj|solutionrelative:SEMANA6_PY\\ejer1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917FBAD3-D9BA-465C-9545-E73B37E23E3E}|SEMANA1_PYTHON\\SEMANA1_PYTHON.pyproj|C:\\Users\\UPN\\Desktop\\Nueva carpeta\\FA_2025\\SEMANA1_PYTHON\\SEMANA1_PYTHON.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{917FBAD3-D9BA-465C-9545-E73B37E23E3E}|SEMANA1_PYTHON\\SEMANA1_PYTHON.pyproj|solutionrelative:SEMANA1_PYTHON\\SEMANA1_PYTHON.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73D6A2F3-2CC2-4E58-935B-1BE3D63D622E}|SEMANA1_C#\\SEMANA1_C#.csproj|c:\\users\\upn\\desktop\\semana5\\fa_2025\\semana1_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{139CDE61-4E0B-4A6E-9553-A6F45C1126BC}|SEMANA4-PY\\SEMANA4-PY.pyproj|C:\\Users\\UPN\\Desktop\\Nueva carpeta\\FA_2025\\SEMANA4-PY\\SEMANA4_PY.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{139CDE61-4E0B-4A6E-9553-A6F45C1126BC}|SEMANA4-PY\\SEMANA4-PY.pyproj|solutionrelative:SEMANA4-PY\\SEMANA4_PY.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D6A2F3-2CC2-4E58-935B-1BE3D63D622E}|SEMANA1_C#\\SEMANA1_C#.csproj|C:\\Users\\UPN\\Desktop\\Nueva carpeta\\FA_2025\\semana1_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73D6A2F3-2CC2-4E58-935B-1BE3D63D622E}|SEMANA1_C#\\SEMANA1_C#.csproj|solutionrelative:semana1_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE4DF4A-97E4-4DFC-B195-0529E18F1257}|SEMANA6_PY\\SEMANA6_PY.pyproj|C:\\Users\\UPN\\Desktop\\Nueva carpeta\\FA_2025\\SEMANA6_PY\\SEMANA6_PY.pyproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|888888fd-3c4a-40da-aefb-5ac10f5e8b30",
+      "RelativeMoniker": "D:0:0:{CAE4DF4A-97E4-4DFC-B195-0529E18F1257}|SEMANA6_PY\\SEMANA6_PY.pyproj|solutionrelative:SEMANA6_PY\\SEMANA6_PY.pyproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|888888fd-3c4a-40da-aefb-5ac10f5e8b30"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +49,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\SEMANA5\\FA_2025\\SEMANA1_C#\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\FA_2025\\SEMANA1_C#\\Program.cs",
               "RelativeDocumentMoniker": "SEMANA1_C#\\Program.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\SEMANA5\\FA_2025\\SEMANA1_C#\\Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\FA_2025\\SEMANA1_C#\\Program.cs",
               "RelativeToolTip": "SEMANA1_C#\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -44,11 +63,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "SEMANA1_PYTHON.py",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\SEMANA5\\FA_2025\\SEMANA1_PYTHON\\SEMANA1_PYTHON.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\FA_2025\\SEMANA1_PYTHON\\SEMANA1_PYTHON.py",
               "RelativeDocumentMoniker": "SEMANA1_PYTHON\\SEMANA1_PYTHON.py",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\SEMANA5\\FA_2025\\SEMANA1_PYTHON\\SEMANA1_PYTHON.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\FA_2025\\SEMANA1_PYTHON\\SEMANA1_PYTHON.py",
               "RelativeToolTip": "SEMANA1_PYTHON\\SEMANA1_PYTHON.py",
               "ViewState": "AgIAABkAAAAAAAAAAAAmwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
@@ -58,11 +77,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "SEMANA4_PY.py",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\SEMANA5\\FA_2025\\SEMANA4-PY\\SEMANA4_PY.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\FA_2025\\SEMANA4-PY\\SEMANA4_PY.py",
               "RelativeDocumentMoniker": "SEMANA4-PY\\SEMANA4_PY.py",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\SEMANA5\\FA_2025\\SEMANA4-PY\\SEMANA4_PY.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\FA_2025\\SEMANA4-PY\\SEMANA4_PY.py",
               "RelativeToolTip": "SEMANA4-PY\\SEMANA4_PY.py",
               "ViewState": "AgIAADMAAAAAAAAAAAAAAEAAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
@@ -73,12 +92,63 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ejer3.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\FA_2025\\SEMANA6_PY\\ejer3.py",
+              "RelativeDocumentMoniker": "SEMANA6_PY\\ejer3.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\FA_2025\\SEMANA6_PY\\ejer3.py",
+              "RelativeToolTip": "SEMANA6_PY\\ejer3.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-23T20:43:58.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ejer2.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\FA_2025\\SEMANA6_PY\\ejer2.py",
+              "RelativeDocumentMoniker": "SEMANA6_PY\\ejer2.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\FA_2025\\SEMANA6_PY\\ejer2.py",
+              "RelativeToolTip": "SEMANA6_PY\\ejer2.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-23T20:28:49.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SEMANA6_PY",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\FA_2025\\SEMANA6_PY\\SEMANA6_PY.pyproj",
+              "RelativeDocumentMoniker": "SEMANA6_PY\\SEMANA6_PY.pyproj",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\FA_2025\\SEMANA6_PY\\SEMANA6_PY.pyproj",
+              "RelativeToolTip": "SEMANA6_PY\\SEMANA6_PY.pyproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-23T20:15:05.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ejer1.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\FA_2025\\SEMANA6_PY\\ejer1.py",
+              "RelativeDocumentMoniker": "SEMANA6_PY\\ejer1.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\FA_2025\\SEMANA6_PY\\ejer1.py",
+              "RelativeToolTip": "SEMANA6_PY\\ejer1.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-23T20:10:01.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SEMANA5_PY.py",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\SEMANA5\\FA_2025\\SEMANA5_PY\\SEMANA5_PY.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\FA_2025\\SEMANA5_PY\\SEMANA5_PY.py",
               "RelativeDocumentMoniker": "SEMANA5_PY\\SEMANA5_PY.py",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\SEMANA5\\FA_2025\\SEMANA5_PY\\SEMANA5_PY.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\FA_2025\\SEMANA5_PY\\SEMANA5_PY.py",
               "RelativeToolTip": "SEMANA5_PY\\SEMANA5_PY.py",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-09-16T20:34:26.154Z",
               "EditorCaption": ""

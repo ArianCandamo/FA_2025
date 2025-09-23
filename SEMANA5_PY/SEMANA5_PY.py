@@ -1,3 +1,6 @@
+from ast import Constant
+
+
 def ejer1():
     edad = int(input("Ingrese su edad: "))
 
@@ -26,5 +29,40 @@ def ejer2():
         print("ESCALENO")
 
 
+def ejer3():
+    n=int(input("Ingrese un número: "))
+    suma = 0
 
-ejer2()
+    print()
+
+    for i in range(1, n+1):
+        print(i)
+
+        if i % 2 == 0:
+            suma += i
+
+    print("\nSuma de pares: ", suma)
+
+
+def ejer4():
+    cant = int(input("Ingrese la cantidad de números:"))
+    ceros = pares = impares = 0
+    print()
+    for i in range(1,cant+1):
+        num = int(input(f"Ingrese el número {i}:"))
+
+        if num==0:
+            ceros+=1
+        elif num % 2 == 0:
+            pares += 1 
+        else:
+            impares += 1
+
+    print("\n#ceros: ", ceros)
+    print("#pares: ", pares)
+    print("#impares: ", impares)    
+
+
+
+
+ejer4()
