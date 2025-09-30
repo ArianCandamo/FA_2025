@@ -3,12 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\FDA\\FA_2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CAE4DF4A-97E4-4DFC-B195-0529E18F1257}|SEMANA6_PY\\SEMANA6_PY.pyproj|C:\\Users\\UPN\\Desktop\\FDA\\FA_2025\\SEMANA6_PY\\ejer4.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{CAE4DF4A-97E4-4DFC-B195-0529E18F1257}|SEMANA6_PY\\SEMANA6_PY.pyproj|solutionrelative:SEMANA6_PY\\ejer4.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{D31FE55F-5693-4181-A903-3BC80CF923EB}|SEMANA7_PY\\SEMANA7_PY.pyproj|C:\\Users\\UPN\\Desktop\\FDA\\FA_2025\\SEMANA7_PY\\ejer3.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D31FE55F-5693-4181-A903-3BC80CF923EB}|SEMANA7_PY\\SEMANA7_PY.pyproj|solutionrelative:SEMANA7_PY\\ejer3.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SEMANA7_PY||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31FE55F-5693-4181-A903-3BC80CF923EB}|SEMANA7_PY\\SEMANA7_PY.pyproj|C:\\Users\\UPN\\Desktop\\FDA\\FA_2025\\SEMANA7_PY\\ejer2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D31FE55F-5693-4181-A903-3BC80CF923EB}|SEMANA7_PY\\SEMANA7_PY.pyproj|solutionrelative:SEMANA7_PY\\ejer2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{73D6A2F3-2CC2-4E58-935B-1BE3D63D622E}|SEMANA1_C#\\SEMANA1_C#.csproj|C:\\Users\\UPN\\Desktop\\FDA\\FA_2025\\semana1_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73D6A2F3-2CC2-4E58-935B-1BE3D63D622E}|SEMANA1_C#\\SEMANA1_C#.csproj|solutionrelative:semana1_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31FE55F-5693-4181-A903-3BC80CF923EB}|SEMANA7_PY\\SEMANA7_PY.pyproj|C:\\Users\\UPN\\Desktop\\FDA\\FA_2025\\SEMANA7_PY\\SEMANA7_PY.pyproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|888888fd-3c4a-40da-aefb-5ac10f5e8b30",
+      "RelativeMoniker": "D:0:0:{D31FE55F-5693-4181-A903-3BC80CF923EB}|SEMANA7_PY\\SEMANA7_PY.pyproj|solutionrelative:SEMANA7_PY\\SEMANA7_PY.pyproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|888888fd-3c4a-40da-aefb-5ac10f5e8b30"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +29,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA\\FA_2025\\SEMANA1_C#\\Program.cs",
               "RelativeDocumentMoniker": "SEMANA1_C#\\Program.cs",
@@ -31,19 +42,45 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T20:30:43.43Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SEMANA7_PY",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA\\FA_2025\\SEMANA7_PY\\SEMANA7_PY.pyproj",
+              "RelativeDocumentMoniker": "SEMANA7_PY\\SEMANA7_PY.pyproj",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA\\FA_2025\\SEMANA7_PY\\SEMANA7_PY.pyproj",
+              "RelativeToolTip": "SEMANA7_PY\\SEMANA7_PY.pyproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-30T20:31:40.658Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ejer4.py",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA\\FA_2025\\SEMANA6_PY\\ejer4.py",
-              "RelativeDocumentMoniker": "SEMANA6_PY\\ejer4.py",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA\\FA_2025\\SEMANA6_PY\\ejer4.py",
-              "RelativeToolTip": "SEMANA6_PY\\ejer4.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Title": "ejer3.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA\\FA_2025\\SEMANA7_PY\\ejer3.py",
+              "RelativeDocumentMoniker": "SEMANA7_PY\\ejer3.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA\\FA_2025\\SEMANA7_PY\\ejer3.py",
+              "RelativeToolTip": "SEMANA7_PY\\ejer3.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-09-30T19:33:43.353Z",
+              "WhenOpened": "2025-09-30T20:30:53.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ejer2.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA\\FA_2025\\SEMANA7_PY\\ejer2.py",
+              "RelativeDocumentMoniker": "SEMANA7_PY\\ejer2.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA\\FA_2025\\SEMANA7_PY\\ejer2.py",
+              "RelativeToolTip": "SEMANA7_PY\\ejer2.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-30T20:06:59.989Z",
               "EditorCaption": ""
             }
           ]

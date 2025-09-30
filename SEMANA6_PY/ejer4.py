@@ -9,7 +9,7 @@ print("------------------------------------------------\n")
 intentos = 3
 
 while(intentos>0):
-    c = input("Ingrese la contraseña: ")
+    c = input("\nIngrese la contraseña: ")
 
     if g == c:
         print("\nAcceso concedido. Bienvenido al sistema.")
@@ -17,5 +17,6 @@ while(intentos>0):
     else:
         intentos-=1
         print("Contraseña incorrecta. Intentos restantes", intentos)
-        print("Acceso denegado! cerrando sistema.")
+
+else: print("Acceso denegado! cerrando sistema.")    
 
